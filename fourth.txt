@@ -1,3 +1,3 @@
 4th file 
 changed after commit
-changing after pushing on remte 
+changing after pushing on remote 
